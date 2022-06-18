@@ -1,0 +1,39 @@
+body
+{
+    background:lavender;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.header_div
+{
+    background: pink;
+    color:red;
+}
+
+.header_div p{
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+color: blueviolet;
+letter-spacing:2px ;
+font-size: 12px;
+font-weight: bold;
+}
+
+.main_div button{
+font-family: serif;
+margin-top: 30px;
+width: 130px;
+font-weight: bold;
+letter-spacing: 3px;
+}
+
+.copy_right_footer{
+position: fixed;
+bottom: 0;
+color: aqua;
+font-size: 18px;
+width: 100%;
+background-color: lavender;
+text-align: center;
+line-height: 3;
+text-shadow: 5px 5px 5px blue;
+}
